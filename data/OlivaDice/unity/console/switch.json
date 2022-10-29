@@ -1,0 +1,20 @@
+{
+    "globalEnable": 1,
+    "userConfigCount": 100,
+    "pulseInterval": 300,
+    "autoAcceptGroupAdd": 1,
+    "autoAcceptFriendAdd": 1,
+    "disableReplyPrivate": 0,
+    "messageFliterMode": 0,
+    "messageSplitGate": 650,
+    "messageSplitPageLimit": 10,
+    "messageSplitDelay": 1000,
+    "largeRollLimit": 300,
+    "randomMode": 0,
+    "masterList": [],
+    "noticeGroupList": [],
+    "pulseUrlList": [],
+    "joyPokeMode": 0,
+    "joyEnableCCPK": 0,
+    "masterAutoUpdate": 1
+}
