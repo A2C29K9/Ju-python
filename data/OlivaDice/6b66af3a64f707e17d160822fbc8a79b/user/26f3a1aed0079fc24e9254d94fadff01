@@ -1,40 +1,4 @@
 {
-    "36eeeb89bbc9318bb661c2027f284fd2": {
-        "configNote": {
-            "userName": "简律纯",
-            "RDRecord": [
-                {
-                    "result": [
-                        [
-                            33
-                        ],
-                        [],
-                        [
-                            33
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
-            ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 33
-        },
-        "userId": "2753364619",
-        "userType": "user",
-        "platform": "qq",
-        "lastHit": 1661874894
-    },
     "6b66af3a64f707e17d160822fbc8a79b": {
         "configNote": {
             "userName": "简律纯",
@@ -42,11 +6,11 @@
                 {
                     "result": [
                         [
-                            92
+                            89
                         ],
                         [],
                         [
-                            92
+                            89
                         ]
                     ],
                     "key": {
@@ -64,11 +28,11 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 92
+            "RDRecordInt": 89
         },
         "userId": "2753364619",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1661963364
+        "lastHit": 1667035285
     }
 }
